@@ -1,0 +1,11 @@
+C:\Users\erikp\OneDrive\Desktop\The Earth in\bin\Debug\The Earth in.exe.config
+C:\Users\erikp\OneDrive\Desktop\The Earth in\bin\Debug\The Earth in.exe
+C:\Users\erikp\OneDrive\Desktop\The Earth in\bin\Debug\The Earth in.pdb
+C:\Users\erikp\OneDrive\Desktop\The Earth in\obj\Debug\The Earth in.csproj.AssemblyReference.cache
+C:\Users\erikp\OneDrive\Desktop\The Earth in\obj\Debug\The Earth in.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikp\OneDrive\Desktop\The Earth in\obj\Debug\The_Earth_in.Properties.Resources.resources
+C:\Users\erikp\OneDrive\Desktop\The Earth in\obj\Debug\The Earth in.csproj.GenerateResource.cache
+C:\Users\erikp\OneDrive\Desktop\The Earth in\obj\Debug\The Earth in.csproj.CoreCompileInputs.cache
+C:\Users\erikp\OneDrive\Desktop\The Earth in\obj\Debug\The Earth in.exe
+C:\Users\erikp\OneDrive\Desktop\The Earth in\obj\Debug\The Earth in.pdb
+C:\Users\erikp\OneDrive\Desktop\The Earth in\obj\Debug\The_Earth_in.The_Earth_In.resources
