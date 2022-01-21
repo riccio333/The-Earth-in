@@ -1,4 +1,4 @@
-Hello,
+# Hello,
 
 In this repository I publish a simply program that can calculate how many times the Earth can fit in another planets.
 
